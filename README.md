@@ -30,20 +30,13 @@ Xorin AI is a **ChatGPT-inspired AI chatbot application** built to deliver intel
 > Add your app screenshots inside a folder named `screenshots/`
 
 ### 🖥 Chat Interface
-![Chat Screen]
 <img width="1211" height="2474" alt="s1" src="https://github.com/user-attachments/assets/1e144e94-fef2-4bfc-a69a-9a381d73520e" />
 
-### 🤖 AI Conversation
-![AI Response]
+### 🤖 Drawer Menu
 <img width="1211" height="2474" alt="s2" src="https://github.com/user-attachments/assets/09706e80-f5c1-4d1c-883d-142169f51c62" />
 
-### 🎨 UI Design
-![UI Design]
-<img width="1211" height="2474" alt="s3" src="https://github.com/user-attachments/assets/45837ca7-89a6-4956-b3f8-1d66c9090843" />
 
-
-### 🎨 UI Design
-![UI Design]
+### 🎨 AI Conversation
 <img width="1211" height="2474" alt="s4" src="https://github.com/user-attachments/assets/e610bf9e-bf1a-49e4-8449-5d973e5d0224" />
 
 ---

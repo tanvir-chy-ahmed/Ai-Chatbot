@@ -41,27 +41,12 @@ Xorin AI is a **ChatGPT-inspired AI chatbot application** built to deliver intel
 
 ---
 
-## 🎥 Demo Video
-
-📺 **Watch Xorin AI in action:**
-
-[![Xorin AI Demo](screenshots/video_thumbnail.png)](https://your-video-link-here)
-
-> You can upload a demo video to:
-- GitHub Releases  
-- YouTube (Unlisted)  
-- Google Drive  
-
-And paste the link above.
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Android Studio / Flutter SDK / Qt (depending on platform)
+- Android Studio
 - Internet connection (for AI API)
-- API Key (OpenAI / Gemini)
+- API Key (Gemini)
 
 ### Installation
 ```bash
@@ -79,19 +64,7 @@ Create a config file or environment variable for your AI API key:
 apiKey=your_api_key_here (gemini free api key)
 
 
-⚠️ Never commit API keys to GitHub.
 
-📌 Project Goal
-
-Xorin AI was built for:
-
-Learning AI chatbot development
-
-Exploring ChatGPT-like interfaces
-
-Demonstrating real-world AI app architecture
-
-Portfolio & showcase projects
 
 🧠 Future Improvements
 
@@ -105,25 +78,12 @@ Portfolio & showcase projects
 
 🧩 Plugin-based AI models
 
-📄 License
-
-This project is licensed under the MIT License — feel free to use, modify, and distribute.
 
 🙌 Author
 
 Tanvir Ahmed Chowdhury
-AI App Developer | Mobile & Desktop Software Engineer
+Native App Developer | Mobile & Desktop Software Engineer
 
 ⭐ If you like this project, don’t forget to star the repo!
 
-
 ---
-
-### 🔥 Want next-level polish?
-I can:
-- Customize this **exactly** for **Jetpack Compose / Flutter / Qt**
-- Create **real screenshot captions**
-- Write a **GitHub About (160 chars)** line
-- Make a **professional README badge set**
-
-Just tell me your **platform + AI API**, and I’ll tune it perfectly 🚀

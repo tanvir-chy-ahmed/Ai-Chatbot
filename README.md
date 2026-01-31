@@ -18,12 +18,10 @@ Xorin AI is a **ChatGPT-inspired AI chatbot application** built to deliver intel
 
 ## 🛠 Tech Stack
 
-- **Frontend:** (Jetpack Compose / Flutter / Qt / Web — update as needed)
-- **Backend / AI:** OpenAI / Gemini / Custom API (update)
-- **Language:** Kotlin / Dart / C++ / JavaScript
-- **Architecture:** MVVM / Clean Architecture (if applicable)
-
-> ✏️ Update the stack based on your actual implementation.
+- **Frontend:** Jetpack Compose
+- **Backend / AI:** OpenAI / Gemini / Custom API 
+- **Language:** Kotlin 
+- **Architecture:** MVVM / Clean Architecture 
 
 ---
 
